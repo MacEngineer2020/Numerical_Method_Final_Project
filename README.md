@@ -1,6 +1,7 @@
 # NM_FinalProject_20
 Numerical Methods Final Project, Fall 2020
-Hazem Lashen, Jimoh Yusuf, Raushan Khullar
+Hazem Lashen, Jimoh Yusuf, Raushan Khullar.
+
 This project is titled: 
 Classifying Cellular Growths as Malignant or Benign Using Support Vector Machines
 
